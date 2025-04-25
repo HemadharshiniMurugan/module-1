@@ -1,4 +1,4 @@
-## 1A OVERVIEW & STRUCTURE
+# 1A OVERVIEW & STRUCTURE
 
 ## PROGRAM STATEMENT:
 Write a C++ program to display "Welcome to Technical Training" in first line and "at Saveetha Engineering College" in next line in the output device?
@@ -29,7 +29,7 @@ Thus, the C++ program to display "Welcome to Technical Training" in first line a
 
 
 
-## 1B CLASS SCOPE AND ACCESSING CLASS MEMBERS & REFERENCE VARIABLES
+# 1B CLASS SCOPE AND ACCESSING CLASS MEMBERS & REFERENCE VARIABLES
 
 ## PROGRAM STATEMENT: 
 Write a C++ program to Calculate the volume of a cylinder using class methods(declare members as private & methods define inside the class) 
@@ -69,7 +69,7 @@ int main()
 Thus,the C++ program to Calculate the volume of a cylinder using class methods(declare members as private & methods define inside the class) has been successfully created.
 
 
-## 1C C++ CONSTRUCTORS AND DESTRUCTORS 
+# 1C C++ CONSTRUCTORS AND DESTRUCTORS 
 
 ## PROGRAM STATEMENT
 Write a C++ program to display "C++ constructors" using default constructors.
@@ -107,7 +107,7 @@ Thus, the C++ program to display "C++ constructors" using a default constructor 
 created successfully.
 
 
-## 1D C++ MEMBER FUNCTION
+# 1D C++ MEMBER FUNCTION
 
 ## PROGRAM STATEMENT:
 Write a C++ program to calculate the sum of AP series using friend function.
